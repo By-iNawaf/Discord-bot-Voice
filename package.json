@@ -1,0 +1,21 @@
+{
+  "name": "vault-voice-sitter",
+  "version": "2.0.0",
+  "description": "Vault Voice Sitter — تثبيت البوتات في القنوات الصوتية بلوحة تحكم أزرار | Powered Vault",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "By-inawaf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@snazzah/davey": "^0.1.12",
+    "discord.js": "^14.27.0",
+    "dotenv": "^18.0.8",
+    "libsodium-wrappers": "^0.8.4"
+  }
+}

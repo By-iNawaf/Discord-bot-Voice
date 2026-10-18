@@ -1,0 +1,4 @@
+# ضع توكن كل بوت صوتي في سطر مستقل (الأسطر التي تبدأ بـ # تُتجاهل).
+# يمكنك أيضًا إضافة البوتات من زر «إضافة بوت» في اللوحة فيُكتب التوكن هنا تلقائيًا. الافضل
+# Put each voice bot token on its own line (lines starting with # are ignored).
+# You can also add bots from the panel's "Add Bot" button; the token is appended here automatically.
